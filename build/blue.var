@@ -1,0 +1,52 @@
+name  Blue
+mode  Dark
+
+# Main palette
+text                 #C4BCAE
+comment              #F7F06F
+keywd                #FFFBED
+constant             #97EFEF
+accent               #0DCFCA
+string               #E0EBE7
+type                 #99E8C9
+bg0                  #052329
+
+# GUI colors
+shadow               #0D1820
+peek                 #121D22
+bg1                  #202E34
+peek_border          #202B30
+bg2                  #50555A
+bg3                  #656A70
+bg4                  #8B909A
+cursor               #99E8C9
+link                 #97EFEF
+list_accent          #0DCFCA
+
+# JSON keys
+json_0               #C4BCAE
+json_1               #BFB7A9
+json_2               #BAB2A4
+json_3               #B5AD9F
+json_4               #B0A89A
+json_5               #A69E90
+json_6               #A1998B
+json_7               #9C9486
+json_8               #978F81
+
+# Terminal colors
+ansi_text            #FFFBED
+ansi_blue            #8B8B8B
+ansi_cyan            #0DCFCA
+ansi_green           #99E8C6
+ansi_magenta         #EF3467
+ansi_red             #EF3550
+ansi_white           #FFFBED
+ansi_yellow          #F7F06F
+ansi_bright_blue     #8B8B8B
+ansi_bright_cyan     #A9F8D6
+ansi_bright_green    #97EFEF
+ansi_bright_magenta  #EF3F6F
+ansi_bright_red      #FF5460
+ansi_bright_white    #E0EBE7
+ansi_bright_yellow   #F7F06F

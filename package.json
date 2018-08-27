@@ -1,0 +1,39 @@
+{
+    "name": "theme-ava",
+    "displayName": "Ava",
+    "description": "True minimalist theme",
+    "version": "1.0.0",
+    "publisher": "stillwwater",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/stillwwater/ava-vscode.git"
+    },
+    "bugs": {
+        "url": "https://github.com/stillwwater/ava-vscode/issues"
+    },
+    "engines": {
+        "vscode": "^1.24.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "galleryBanner": {
+        "color": "#111017",
+        "theme": "dark"
+    },
+    "icon": "assets/icon.png",
+    "contributes": {
+        "themes": [
+            {
+                "label": "Ava Blue",
+                "uiTheme": "vs-dark",
+                "path": "./themes/ava-blue.json"
+            },
+            {
+                "label": "Ava Midnight",
+                "uiTheme": "vs-dark",
+                "path": "./themes/ava-midnight.json"
+            }
+        ]
+    }
+}

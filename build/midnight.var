@@ -1,0 +1,52 @@
+name  Midnight
+mode  Dark
+
+# Main palette
+text                 #9E9B9F
+comment              #F7F06F
+keywd                #FFFBED
+constant             #97EFEF
+accent               #0DCFCA
+string               #E9C8D3
+type                 #99E8C9
+bg0                  #111017
+
+# GUI colors
+shadow               #000810
+peek                 #0F1A22
+bg1                  #191B1D
+peek_border          #2C373C
+bg2                  #41414A
+bg3                  #50515B
+bg4                  #6B707A
+cursor               #99E8C9
+link                 #97EFEF
+list_accent          #0DCFCA
+
+# JSON keys
+json_0               #9E9B9F
+json_1               #99969A
+json_2               #949195
+json_3               #8F8C90
+json_4               #8A878B
+json_5               #858286
+json_6               #807D81
+json_7               #7B787C
+json_8               #767377
+
+# Terminal colors
+ansi_text            #FFFBED
+ansi_blue            #9E9B9F
+ansi_cyan            #0DCFCA
+ansi_green           #99E8C6
+ansi_magenta         #EF3467
+ansi_red             #EF3550
+ansi_white           #FFFBED
+ansi_yellow          #F7F06F
+ansi_bright_blue     #9E9B9F
+ansi_bright_cyan     #A9F8D6
+ansi_bright_green    #97EFEF
+ansi_bright_magenta  #EF3F6F
+ansi_bright_red      #FF5460
+ansi_bright_white    #E0EBE7
+ansi_bright_yellow   #F7F06F
